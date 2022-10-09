@@ -3,24 +3,24 @@
     "categoryId": "1",
     "categoryName": "UI UX Design",
     "totalCourse": "25",
-    "image": "https://drive.google.com/file/d/1Q-d57Us0bRPLIKFzA2mKXJlA720-bJE3/view?usp=sharing"
+    "image": "https://hanifzzqr.github.io/javaapp/image/1.png"
   },
   {
     "categoryId": "2",
     "categoryName": "Web Developmment",
     "totalCourse": "25",
-    "image": "https://drive.google.com/file/d/1Yk-t2EsJ8bUw3PILWc6iQgnZbb9jIMCT/view?usp=sharing"
+    "image": "https://hanifzzqr.github.io/javaapp/image/2.png"
   },
   {
     "categoryId": "3",
     "categoryName": "Mobile Programming",
     "totalCourse": "25",
-    "image": "https://drive.google.com/file/d/1Qk4vh4Qwel8jwlhnDpRCLUCVEib848yA/view?usp=sharing"
+    "image": "https://hanifzzqr.github.io/javaapp/image/3.png"
   },
   {
     "categoryId": "4",
     "categoryName": "Graphic Design",
     "totalCourse": "25",
-    "image": "https://drive.google.com/file/d/1WN665xsmFHgIMdJs_w2edhEbsJk4uCXE/view?usp=sharing"
+    "image": "https://hanifzzqr.github.io/javaapp/image/4.png"
   }
 ]
