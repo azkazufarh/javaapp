@@ -1,0 +1,31 @@
+[
+    {
+        "courseName": "Design Thhinking",
+        "rating": "4.2",
+        "price": "99.000",
+        "bestSeller": " true",
+        "member": "50k",
+        "playlist": [
+            {
+                "name": "Introduction",
+                "time": "5.4 mins"
+            },
+            {
+                "name": "Basic",
+                "time": "5.4 mins"
+            },
+            {
+                "name": "Variable",
+                "time": "5.4 mins"
+            },
+            {
+                "name": "Function",
+                "time": "5.4 mins"
+            },
+            {
+                "name": "Project",
+                "time": "5.4 mins"
+            }
+        ]
+    }
+]
